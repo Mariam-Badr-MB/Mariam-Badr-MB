@@ -1,11 +1,6 @@
 # 👩‍💻 Mariam Badr  
 **Software Engineer | Competitive Programmer | AI Enthusiast**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mariambadr13/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle&style=flat-square)](https://www.kaggle.com/mariambadrmb)  
-[![Vjudge](https://img.shields.io/badge/Vjudge-Profile-green?logo=codeforces&style=flat-square)](https://vjudge.net/user/mariam15)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?logo=codeforces&style=flat-square)](https://codeforces.com/profile/mariam_badr)
-
 ---
 
 ## 🧑‍💼 About Me  
@@ -44,7 +39,7 @@
 ---
 
 ## 🔗 Connect with Me  
-- 📧 Email: [your-email@example.com](mariambadr145@gmail.com)  
+- Email:(mariambadr145@gmail.com)  
 - [Kaggle](https://www.kaggle.com/mariambadrmb)  
 - [Vjudge](https://vjudge.net/user/mariam15)  
 - [Codeforces](https://codeforces.com/profile/mariam_badr)
