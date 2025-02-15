@@ -1,3 +1,22 @@
+<h1 align="center">👋 Hello, I'm Mariam Badr</h1>
+<h3 align="center">AI & Machine Learning Enthusiast | Problem Solver | Tech Explorer</h3>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mariam-badr-mb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 🚀 About Me
+🎓 **Bachelor's in Computers and Artificial Intelligence** – Cairo University  
+🤖 **Passionate about AI & Machine Learning**, with a strong foundation in problem-solving and data science.  
+⚡ **Currently Exploring:** Deep Learning, Generative AI, and MLOps.  
+🏆 **Achievements:** Participated in multiple Kaggle competitions & AI-related projects.  
+
+📩 **How to reach me:** mariambadr145@gmail.com  
+
+---
+
 ## 🌍 Connect with Me  
 <p align="left">
     <a href="https://linkedin.com/in/mariambadr13" target="_blank">
@@ -40,8 +59,20 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
     </a>
 </p>
+---
 
+## 📊 GitHub Stats  
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mariam-badr-mb&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-badr-mb&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+### 💡 “Continuous learning and curiosity drive innovation!”  
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-badr-mb&layout=compact&theme=tokyonight" alt="Top Languages"/>
