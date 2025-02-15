@@ -1,9 +1,8 @@
 <h1 align="center">👋 Hello, I'm Mariam Badr</h1>
 <h3 align="center">AI & Machine Learning Enthusiast | Problem Solver | Tech Explorer</h3>
 
-<p align="left">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=mariam-badr-mb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Eo_circle_blue_eye.svg" alt="Eye Icon" width="30"/>
 </p>
 
 
