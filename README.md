@@ -74,11 +74,3 @@
 
 ### 💡 “Continuous learning and curiosity drive innovation!”  
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-badr-mb&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
-### 💡 “Continuous learning and curiosity drive innovation!”  
-
