@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 🎓 **Bachelor's in Computers and Artificial Intelligence** – Cairo University  
-🤖 **Passionate about AI & Machine Learning**, with a strong foundation in problem-solving and data science.  
+🤖 **Passionate about AI & Machine Learning**, with a strong foundation in problem-solving .  
 ⚡ **Currently Exploring:** Deep Learning, Generative AI, and MLOps.  
 🏆 **Achievements:** Participated in multiple Kaggle competitions & AI-related projects.  
 
