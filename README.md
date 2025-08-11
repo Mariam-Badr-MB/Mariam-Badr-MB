@@ -73,7 +73,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [📚 Book Clustering Using NLP](https://github.com/Mariam-Badr-MB/Book-s-genre) | Unsupervised machine learning project using NLP (TF-IDF, KMeans) to cluster books into hidden micro-genres based on descriptions, with PCA visualization and silhouette analysis. | Python, Pandas, Scikit-learn, NLP |
+| [📚 Book's-genre](https://github.com/Mariam-Badr-MB/Book-s-genre) | Unsupervised machine learning project using NLP (TF-IDF, KMeans) to cluster books into hidden micro-genres based on descriptions, with PCA visualization and silhouette analysis. | Python, Pandas, Scikit-learn, NLP |
 | [⌨️ AI Virtual Keyboard](https://github.com/Mariam-Badr-MB/AI_Virtual_Keyboard) | Computer vision-based virtual keyboard allowing users to type using hand gestures detected via webcam. | Python, OpenCV, MediaPipe |
 | [🚦 Traffic Sign Classification](https://github.com/Mariam-Badr-MB/German-Traffic-Sign-Classification) | Deep learning model for classifying German traffic signs using convolutional neural networks. | Python, TensorFlow/Keras, NumPy |
 | [📚 LibraSphere](https://github.com/Mariam-Badr-MB/LibraSphere) | Web application for browsing, searching, and borrowing books online. Includes user authentication, genre-based browsing, and admin management dashboard. | Django, HTML, CSS, JavaScript |
