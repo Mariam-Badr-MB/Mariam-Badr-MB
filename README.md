@@ -7,6 +7,7 @@
 🎓 **B.Sc. in Computers and Artificial Intelligence @ Cairo University**  
 💻 Aspiring **Machine Learning & AI Engineer** currently learning and gaining hands-on experience in **ML, Deep Learning, and Computer Vision**.  
 🚀 Passionate about exploring **data-driven solutions** and transforming ideas into functional projects while continuously expanding my skills.  
+📌 Actively seeking internship opportunities to apply my skills, expand my knowledge, and make meaningful contributions to the AI and software development community.  
 
 
 ---
