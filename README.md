@@ -94,18 +94,6 @@
 
 ---
 
-## 🔥 GitHub Streak & Activity  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mariam-Badr-MB&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariam-Badr-MB&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ## 🎓 Education & Certifications  
 
 - **B.Sc. in Computers and Artificial Intelligence** — Cairo University  
